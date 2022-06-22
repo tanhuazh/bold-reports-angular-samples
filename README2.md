@@ -21,3 +21,9 @@ https://stackoverflow.com/questions/52677872/localhost-sent-an-invalid-response-
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security  --user-data-dir=~/chromeTemp
 
 https://www.code4it.dev/blog/run-google-chrome-without-cors
+
+### Run app
+
+npm run serve
+
+And use http://localhost:4200
