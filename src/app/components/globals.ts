@@ -1,6 +1,6 @@
 export const Globals = {
-    SERVICE_URL: 'http://localhost:63779/api/ReportViewerWebApi',
-    DESIGNER_SERVICE_URL: 'http://localhost:63779/api/ReportDesignerWebApi',
+    SERVICE_URL: 'http://localhost:5000/ReportViewerWebApi',
+    DESIGNER_SERVICE_URL: 'http://localhost:5000/ReportDesignerWebApi',
     TOOLBAR_OPTIONS: {
         showToolbar: true,
         customGroups: [{
