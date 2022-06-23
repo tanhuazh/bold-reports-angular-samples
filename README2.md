@@ -16,7 +16,7 @@ Under Delete domain security policies enter localhost or your problem domain and
 
 https://stackoverflow.com/questions/52677872/localhost-sent-an-invalid-response-for-my-angular-app
 
-### Run without CORS
+### Run without CORS(With administrator rights)
 
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security  --user-data-dir=~/chromeTemp
 
@@ -27,3 +27,6 @@ https://www.code4it.dev/blog/run-google-chrome-without-cors
 npm run serve
 
 And use http://localhost:4200
+
+Test report url: http://localhost:4200/#/report-viewer/product-catalog
+
